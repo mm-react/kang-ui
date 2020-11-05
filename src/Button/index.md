@@ -4,14 +4,16 @@ nav:
   path: /components
 ---
 
-## 基本用法
+# Button
+
+## Button 基本用法
 
 <code src="./demo/base/index.tsx" />
 
-## 空心按钮
+## Button 空心按钮
 
 <code src="./demo/hollow/index.tsx" />
 
-## 大小
+## Button 大小
 
 <code src="./demo/size/index.tsx" />
