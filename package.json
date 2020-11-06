@@ -2,6 +2,7 @@
   "name": "kang-ui",
   "version": "0.0.6",
   "author": "kang",
+  "license": "MIT",
   "homepage": "./",
   "scripts": {
     "start": "dumi dev",
