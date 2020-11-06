@@ -6,7 +6,7 @@ export default defineConfig({
   logo: '/kang-ui.jpg',
   outputPath: 'docs-dist',
   mode: 'site',
-  base: '/kang-ui',
-  publicPath: '/kang-ui',
+  base: './kang-ui',
+  publicPath: './kang-ui',
   // more config: https://d.umijs.org/config
 });
